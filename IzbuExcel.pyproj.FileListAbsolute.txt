@@ -1,0 +1,2 @@
+C:\Users\sdole\source\repos\IzbuExcel\IzbuExcel\obj\Any CPU\Debug\IzbuExcel.pyproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IzbuExcel\IzbuExcel\obj\Any CPU\Debug\IzbuExcel.pyproj.CoreCompileInputs.cache
